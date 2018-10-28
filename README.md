@@ -16,9 +16,9 @@
 
 
 # Tutorials
-##[UFLDL](http://deeplearning.stanford.edu/tutorial/)
+## [UFLDL](http://deeplearning.stanford.edu/tutorial/)
 Stanford University Machine Learning Tutorials  
-##[CS231n](http://cs231n.github.io/)
+## [CS231n](http://cs231n.github.io/)
 A very good tutorials for Deeplearning beginners, especially for CV researcher 
 
 
